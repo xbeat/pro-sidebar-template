@@ -10,7 +10,7 @@ If you are looking for a version built with angular, then you should checkout th
 [See it live](https://azouaoui-med.github.io/pro-sidebar-template/src)
 
 ##Codepen
-[See it live](https://codepen.io/kaolay/pen/abpNrGq)
+[See on Codepen](https://codepen.io/kaolay/pen/abpNrGq)
 
 ## Screenshot
 
